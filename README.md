@@ -1,2 +1,2 @@
 # runnero-django
-Django RESTFUL API
+Django REST API
